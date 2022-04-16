@@ -6,7 +6,7 @@
 name=test
 qgisMinimumVersion=3.0
 description=test
-version=0.2
+version=0.1
 author=test
 email=test
 
