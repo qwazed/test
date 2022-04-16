@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <plugins>
     <pyqgis_plugin name="test" version="0.1">
         <description>test</description>
