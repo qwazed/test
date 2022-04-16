@@ -1,5 +1,5 @@
 <plugins>
-    <pyqgis_plugin name="test" version="0.1">
+    <pyqgis_plugin name="test" version="0.3">
         <description>test</description>
         <homepage>https://github.com/qwazed/test/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
