@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="test" version="0.1">
+        <description>test</description>
+        <homepage>https://github.com/qwazed/test/</homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>test.zip</file_name>
+        <author_name>test</author_name>
+        <download_url>https://github.com/qwazed/test/test.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
